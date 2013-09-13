@@ -39,12 +39,12 @@
         $( this )
           .addClass( "ui-state-highlight" )
           .find( "p" )
-            .html( "<img src='"+url+"' width='320px'/>"  );
+            .html( "<img src='"+url+"' width='512px'/>"  );
       }
     });
   });
   </script>
 
-<div id="droppable" class="ui-widget-header" style="width:320px;height:240px">
-   <p>Drop me here</p>
-</div>
+<center><div id="droppable" class="ui-widget-header" style="width:512px;height:512px">
+	<p>Drop a camera image</p>
+</div></center>
