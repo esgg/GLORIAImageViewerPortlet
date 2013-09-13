@@ -18,6 +18,7 @@
 		<supports>
 			<mime-type>text/html</mime-type>
 		</supports>
+		<resource-bundle>eu.gloria.website.liferay.experiments.online.portlets.ccd.content.Language-ImageCcd</resource-bundle>
 		<portlet-info>
 			<title>GLORIA ImageCCD</title>
 			<short-title>GLORIA ImageCCD</short-title>
